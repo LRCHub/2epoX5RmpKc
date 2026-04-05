@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "SAD SONG",
-  "base_artist": "chanmina",
-  "createdAt": "2025-12-09T09:37:01.512767Z",
+  "base_artist": "ちゃんみな",
+  "createdAt": "2026-04-05T22:07:08.338916Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -141,20 +141,13 @@
       "path": "select/pl_01_SAD_SONG_ちゃんみな.txt"
     },
     {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
+      "id": "localdb_1",
+      "source": "localdb",
       "title": "SAD SONG",
       "artist": "ちゃんみな",
       "has_synced": false,
-      "path": "select/pl_02_SAD_SONG_ちゃんみな.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "SAD SONG",
-      "artist": "ちゃんみな",
-      "has_synced": false,
-      "path": "select/pl_03_SAD_SONG_ちゃんみな.txt"
+      "path": "select/localdb_01_SAD_SONG_ちゃんみな.txt",
+      "repo_name": "CFBStXempJY"
     }
   ]
 }
