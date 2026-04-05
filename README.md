@@ -1,4 +1,4 @@
-# chanmina – SAD SONG
+# ちゃんみな – SAD SONG
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
